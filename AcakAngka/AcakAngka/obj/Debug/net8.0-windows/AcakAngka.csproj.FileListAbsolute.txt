@@ -1,0 +1,16 @@
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\bin\Debug\net8.0-windows\AcakAngka.exe
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\bin\Debug\net8.0-windows\AcakAngka.deps.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\bin\Debug\net8.0-windows\AcakAngka.runtimeconfig.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\bin\Debug\net8.0-windows\AcakAngka.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\bin\Debug\net8.0-windows\AcakAngka.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\obj\Debug\net8.0-windows\AcakAngka.Form1.resources
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\obj\Debug\net8.0-windows\AcakAngka.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\obj\Debug\net8.0-windows\AcakAngka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\obj\Debug\net8.0-windows\AcakAngka.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\obj\Debug\net8.0-windows\AcakAngka.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\obj\Debug\net8.0-windows\AcakAngka.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\obj\Debug\net8.0-windows\AcakAngka.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\obj\Debug\net8.0-windows\refint\AcakAngka.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\obj\Debug\net8.0-windows\AcakAngka.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\obj\Debug\net8.0-windows\AcakAngka.genruntimeconfig.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AcakAngka\AcakAngka\obj\Debug\net8.0-windows\ref\AcakAngka.dll

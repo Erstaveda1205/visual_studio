@@ -1,0 +1,16 @@
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\bin\Debug\net8.0-windows\HitungRetaraAngka.exe
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\bin\Debug\net8.0-windows\HitungRetaraAngka.deps.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\bin\Debug\net8.0-windows\HitungRetaraAngka.runtimeconfig.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\bin\Debug\net8.0-windows\HitungRetaraAngka.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\bin\Debug\net8.0-windows\HitungRetaraAngka.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\obj\Debug\net8.0-windows\HitungRetaraAngka.Form1.resources
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\obj\Debug\net8.0-windows\HitungRetaraAngka.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\obj\Debug\net8.0-windows\HitungRetaraAngka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\obj\Debug\net8.0-windows\HitungRetaraAngka.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\obj\Debug\net8.0-windows\HitungRetaraAngka.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\obj\Debug\net8.0-windows\HitungRetaraAngka.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\obj\Debug\net8.0-windows\HitungRetaraAngka.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\obj\Debug\net8.0-windows\refint\HitungRetaraAngka.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\obj\Debug\net8.0-windows\HitungRetaraAngka.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\obj\Debug\net8.0-windows\HitungRetaraAngka.genruntimeconfig.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRetaraAngka\HitungRetaraAngka\obj\Debug\net8.0-windows\ref\HitungRetaraAngka.dll

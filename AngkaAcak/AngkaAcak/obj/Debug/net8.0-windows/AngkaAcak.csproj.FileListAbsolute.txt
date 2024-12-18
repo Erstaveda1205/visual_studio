@@ -1,0 +1,16 @@
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\bin\Debug\net8.0-windows\AngkaAcak.exe
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\bin\Debug\net8.0-windows\AngkaAcak.deps.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\bin\Debug\net8.0-windows\AngkaAcak.runtimeconfig.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\bin\Debug\net8.0-windows\AngkaAcak.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\bin\Debug\net8.0-windows\AngkaAcak.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\obj\Debug\net8.0-windows\AngkaAcak.Form1.resources
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\obj\Debug\net8.0-windows\AngkaAcak.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\obj\Debug\net8.0-windows\AngkaAcak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\obj\Debug\net8.0-windows\AngkaAcak.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\obj\Debug\net8.0-windows\AngkaAcak.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\obj\Debug\net8.0-windows\AngkaAcak.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\obj\Debug\net8.0-windows\AngkaAcak.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\obj\Debug\net8.0-windows\refint\AngkaAcak.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\obj\Debug\net8.0-windows\AngkaAcak.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\obj\Debug\net8.0-windows\AngkaAcak.genruntimeconfig.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaAcak\AngkaAcak\obj\Debug\net8.0-windows\ref\AngkaAcak.dll

@@ -1,0 +1,16 @@
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\bin\Debug\net8.0-windows\DataPegawai.exe
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\bin\Debug\net8.0-windows\DataPegawai.deps.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\bin\Debug\net8.0-windows\DataPegawai.runtimeconfig.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\bin\Debug\net8.0-windows\DataPegawai.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\bin\Debug\net8.0-windows\DataPegawai.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\obj\Debug\net8.0-windows\DataPegawai.Form1.resources
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\obj\Debug\net8.0-windows\DataPegawai.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\obj\Debug\net8.0-windows\DataPegawai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\obj\Debug\net8.0-windows\DataPegawai.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\obj\Debug\net8.0-windows\DataPegawai.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\obj\Debug\net8.0-windows\DataPegawai.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\obj\Debug\net8.0-windows\DataPegawai.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\obj\Debug\net8.0-windows\refint\DataPegawai.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\obj\Debug\net8.0-windows\DataPegawai.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\obj\Debug\net8.0-windows\DataPegawai.genruntimeconfig.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\DataPegawai\DataPegawai\obj\Debug\net8.0-windows\ref\DataPegawai.dll

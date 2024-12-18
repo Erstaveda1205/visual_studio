@@ -1,0 +1,16 @@
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\bin\Debug\net8.0-windows\HitungDiskon.exe
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\bin\Debug\net8.0-windows\HitungDiskon.deps.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\bin\Debug\net8.0-windows\HitungDiskon.runtimeconfig.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\bin\Debug\net8.0-windows\HitungDiskon.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\bin\Debug\net8.0-windows\HitungDiskon.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\obj\Debug\net8.0-windows\HitungDiskon.Form1.resources
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\obj\Debug\net8.0-windows\HitungDiskon.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\obj\Debug\net8.0-windows\HitungDiskon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\obj\Debug\net8.0-windows\HitungDiskon.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\obj\Debug\net8.0-windows\HitungDiskon.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\obj\Debug\net8.0-windows\HitungDiskon.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\obj\Debug\net8.0-windows\HitungDiskon.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\obj\Debug\net8.0-windows\refint\HitungDiskon.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\obj\Debug\net8.0-windows\HitungDiskon.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\obj\Debug\net8.0-windows\HitungDiskon.genruntimeconfig.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungDiskon\HitungDiskon\obj\Debug\net8.0-windows\ref\HitungDiskon.dll

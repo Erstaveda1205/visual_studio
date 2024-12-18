@@ -1,0 +1,16 @@
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\bin\Debug\net8.0-windows\IfElse2.exe
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\bin\Debug\net8.0-windows\IfElse2.deps.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\bin\Debug\net8.0-windows\IfElse2.runtimeconfig.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\bin\Debug\net8.0-windows\IfElse2.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\bin\Debug\net8.0-windows\IfElse2.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\obj\Debug\net8.0-windows\IfElse2.Form1.resources
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\obj\Debug\net8.0-windows\IfElse2.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\obj\Debug\net8.0-windows\IfElse2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\obj\Debug\net8.0-windows\IfElse2.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\obj\Debug\net8.0-windows\IfElse2.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\obj\Debug\net8.0-windows\IfElse2.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\obj\Debug\net8.0-windows\IfElse2.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\obj\Debug\net8.0-windows\refint\IfElse2.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\obj\Debug\net8.0-windows\IfElse2.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\obj\Debug\net8.0-windows\IfElse2.genruntimeconfig.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\IfElse2\IfElse2\obj\Debug\net8.0-windows\ref\IfElse2.dll

@@ -1,0 +1,16 @@
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\bin\Debug\net8.0-windows\Latihan3.exe
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\bin\Debug\net8.0-windows\Latihan3.deps.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\bin\Debug\net8.0-windows\Latihan3.runtimeconfig.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\bin\Debug\net8.0-windows\Latihan3.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\bin\Debug\net8.0-windows\Latihan3.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\obj\Debug\net8.0-windows\Latihan3.Form1.resources
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\obj\Debug\net8.0-windows\Latihan3.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\obj\Debug\net8.0-windows\Latihan3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\obj\Debug\net8.0-windows\Latihan3.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\obj\Debug\net8.0-windows\Latihan3.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\obj\Debug\net8.0-windows\Latihan3.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\obj\Debug\net8.0-windows\Latihan3.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\obj\Debug\net8.0-windows\refint\Latihan3.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\obj\Debug\net8.0-windows\Latihan3.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\obj\Debug\net8.0-windows\Latihan3.genruntimeconfig.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Latihan3\Latihan3\obj\Debug\net8.0-windows\ref\Latihan3.dll

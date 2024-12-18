@@ -1,0 +1,33 @@
+C:\Users\Modern 14 H\source\repos\coba\coba\bin\Debug\net8.0-windows\coba.exe
+C:\Users\Modern 14 H\source\repos\coba\coba\bin\Debug\net8.0-windows\coba.deps.json
+C:\Users\Modern 14 H\source\repos\coba\coba\bin\Debug\net8.0-windows\coba.runtimeconfig.json
+C:\Users\Modern 14 H\source\repos\coba\coba\bin\Debug\net8.0-windows\coba.dll
+C:\Users\Modern 14 H\source\repos\coba\coba\bin\Debug\net8.0-windows\coba.pdb
+C:\Users\Modern 14 H\source\repos\coba\coba\obj\Debug\net8.0-windows\coba.Form1.resources
+C:\Users\Modern 14 H\source\repos\coba\coba\obj\Debug\net8.0-windows\coba.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\coba\coba\obj\Debug\net8.0-windows\coba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\coba\coba\obj\Debug\net8.0-windows\coba.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\coba\coba\obj\Debug\net8.0-windows\coba.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\coba\coba\obj\Debug\net8.0-windows\coba.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\coba\coba\obj\Debug\net8.0-windows\coba.dll
+C:\Users\Modern 14 H\source\repos\coba\coba\obj\Debug\net8.0-windows\refint\coba.dll
+C:\Users\Modern 14 H\source\repos\coba\coba\obj\Debug\net8.0-windows\coba.pdb
+C:\Users\Modern 14 H\source\repos\coba\coba\obj\Debug\net8.0-windows\coba.genruntimeconfig.cache
+C:\Users\Modern 14 H\source\repos\coba\coba\obj\Debug\net8.0-windows\ref\coba.dll
+C:\Users\Modern 14 H\source\repos\coba\coba\obj\Debug\net8.0-windows\coba.Login.resources
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\bin\Debug\net8.0-windows\coba.exe
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\bin\Debug\net8.0-windows\coba.deps.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\bin\Debug\net8.0-windows\coba.runtimeconfig.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\bin\Debug\net8.0-windows\coba.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\bin\Debug\net8.0-windows\coba.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\obj\Debug\net8.0-windows\coba.Login.resources
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\obj\Debug\net8.0-windows\coba.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\obj\Debug\net8.0-windows\coba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\obj\Debug\net8.0-windows\coba.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\obj\Debug\net8.0-windows\coba.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\obj\Debug\net8.0-windows\coba.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\obj\Debug\net8.0-windows\coba.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\obj\Debug\net8.0-windows\refint\coba.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\obj\Debug\net8.0-windows\coba.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\obj\Debug\net8.0-windows\coba.genruntimeconfig.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\coba\coba\obj\Debug\net8.0-windows\ref\coba.dll

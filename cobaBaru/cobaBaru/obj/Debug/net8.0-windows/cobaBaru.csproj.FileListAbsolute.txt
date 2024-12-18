@@ -1,0 +1,16 @@
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\bin\Debug\net8.0-windows\cobaBaru.exe
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\bin\Debug\net8.0-windows\cobaBaru.deps.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\bin\Debug\net8.0-windows\cobaBaru.runtimeconfig.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\bin\Debug\net8.0-windows\cobaBaru.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\bin\Debug\net8.0-windows\cobaBaru.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\obj\Debug\net8.0-windows\cobaBaru.Form1.resources
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\obj\Debug\net8.0-windows\cobaBaru.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\obj\Debug\net8.0-windows\cobaBaru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\obj\Debug\net8.0-windows\cobaBaru.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\obj\Debug\net8.0-windows\cobaBaru.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\obj\Debug\net8.0-windows\cobaBaru.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\obj\Debug\net8.0-windows\cobaBaru.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\obj\Debug\net8.0-windows\refint\cobaBaru.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\obj\Debug\net8.0-windows\cobaBaru.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\obj\Debug\net8.0-windows\cobaBaru.genruntimeconfig.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\cobaBaru\cobaBaru\obj\Debug\net8.0-windows\ref\cobaBaru.dll

@@ -1,0 +1,16 @@
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\bin\Debug\net8.0-windows\AngkaMaksimum.exe
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\bin\Debug\net8.0-windows\AngkaMaksimum.deps.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\bin\Debug\net8.0-windows\AngkaMaksimum.runtimeconfig.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\bin\Debug\net8.0-windows\AngkaMaksimum.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\bin\Debug\net8.0-windows\AngkaMaksimum.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\obj\Debug\net8.0-windows\AngkaMaksimum.Form1.resources
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\obj\Debug\net8.0-windows\AngkaMaksimum.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\obj\Debug\net8.0-windows\AngkaMaksimum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\obj\Debug\net8.0-windows\AngkaMaksimum.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\obj\Debug\net8.0-windows\AngkaMaksimum.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\obj\Debug\net8.0-windows\AngkaMaksimum.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\obj\Debug\net8.0-windows\AngkaMaksimum.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\obj\Debug\net8.0-windows\refint\AngkaMaksimum.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\obj\Debug\net8.0-windows\AngkaMaksimum.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\obj\Debug\net8.0-windows\AngkaMaksimum.genruntimeconfig.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\AngkaMaksimum\AngkaMaksimum\obj\Debug\net8.0-windows\ref\AngkaMaksimum.dll

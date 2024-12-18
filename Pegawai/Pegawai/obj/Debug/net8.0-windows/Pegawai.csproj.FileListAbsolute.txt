@@ -1,0 +1,25 @@
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\bin\Debug\net8.0-windows\Pegawai.exe
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\bin\Debug\net8.0-windows\Pegawai.deps.json
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\bin\Debug\net8.0-windows\Pegawai.runtimeconfig.json
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\bin\Debug\net8.0-windows\Pegawai.dll
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\bin\Debug\net8.0-windows\Pegawai.pdb
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.Form1.resources
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.dll
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\obj\Debug\net8.0-windows\refint\Pegawai.dll
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.pdb
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.genruntimeconfig.cache
+C:\Users\Modern 14 H\source\repos\Pegawai\Pegawai\obj\Debug\net8.0-windows\ref\Pegawai.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Pegawai\Pegawai\obj\Debug\net8.0-windows\PegawaiApp.Form1.resources
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Pegawai\Pegawai\obj\Debug\net8.0-windows\refint\Pegawai.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\Pegawai\Pegawai\obj\Debug\net8.0-windows\Pegawai.pdb

@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Modern 14 H\\source\\repos\\Program Visual Studio\\AngkaAcak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A02044F7-7A2C-4318-A630-D7F9BC60A7C5}|AngkaAcak\\AngkaAcak.csproj|c:\\users\\modern 14 h\\source\\repos\\program visual studio\\angkaacak\\angkaacak\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A02044F7-7A2C-4318-A630-D7F9BC60A7C5}|AngkaAcak\\AngkaAcak.csproj|solutionrelative:angkaacak\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02044F7-7A2C-4318-A630-D7F9BC60A7C5}|AngkaAcak\\AngkaAcak.csproj|c:\\users\\modern 14 h\\source\\repos\\program visual studio\\angkaacak\\angkaacak\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02044F7-7A2C-4318-A630-D7F9BC60A7C5}|AngkaAcak\\AngkaAcak.csproj|solutionrelative:angkaacak\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02044F7-7A2C-4318-A630-D7F9BC60A7C5}|AngkaAcak\\AngkaAcak.csproj|c:\\users\\modern 14 h\\source\\repos\\program visual studio\\angkaacak\\angkaacak\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02044F7-7A2C-4318-A630-D7F9BC60A7C5}|AngkaAcak\\AngkaAcak.csproj|solutionrelative:angkaacak\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Modern 14 H\\source\\repos\\Program Visual Studio\\AngkaAcak\\AngkaAcak\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AngkaAcak\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Modern 14 H\\source\\repos\\Program Visual Studio\\AngkaAcak\\AngkaAcak\\Form1.Designer.cs",
+              "RelativeToolTip": "AngkaAcak\\Form1.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:39:26.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Modern 14 H\\source\\repos\\Program Visual Studio\\AngkaAcak\\AngkaAcak\\Form1.cs",
+              "RelativeDocumentMoniker": "AngkaAcak\\Form1.cs",
+              "ToolTip": "C:\\Users\\Modern 14 H\\source\\repos\\Program Visual Studio\\AngkaAcak\\AngkaAcak\\Form1.cs",
+              "RelativeToolTip": "AngkaAcak\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:56:43.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Modern 14 H\\source\\repos\\Program Visual Studio\\AngkaAcak\\AngkaAcak\\Form1.cs",
+              "RelativeDocumentMoniker": "AngkaAcak\\Form1.cs",
+              "ToolTip": "C:\\Users\\Modern 14 H\\source\\repos\\Program Visual Studio\\AngkaAcak\\AngkaAcak\\Form1.cs [Design]",
+              "RelativeToolTip": "AngkaAcak\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:36:51.782Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

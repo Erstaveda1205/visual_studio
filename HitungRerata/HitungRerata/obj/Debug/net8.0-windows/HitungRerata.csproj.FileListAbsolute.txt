@@ -1,0 +1,16 @@
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\bin\Debug\net8.0-windows\HitungRerata.exe
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\bin\Debug\net8.0-windows\HitungRerata.deps.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\bin\Debug\net8.0-windows\HitungRerata.runtimeconfig.json
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\bin\Debug\net8.0-windows\HitungRerata.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\bin\Debug\net8.0-windows\HitungRerata.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\obj\Debug\net8.0-windows\HitungRerata.Form1.resources
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\obj\Debug\net8.0-windows\HitungRerata.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\obj\Debug\net8.0-windows\HitungRerata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\obj\Debug\net8.0-windows\HitungRerata.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\obj\Debug\net8.0-windows\HitungRerata.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\obj\Debug\net8.0-windows\HitungRerata.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\obj\Debug\net8.0-windows\HitungRerata.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\obj\Debug\net8.0-windows\refint\HitungRerata.dll
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\obj\Debug\net8.0-windows\HitungRerata.pdb
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\obj\Debug\net8.0-windows\HitungRerata.genruntimeconfig.cache
+C:\Users\Modern 14 H\source\repos\Program Visual Studio\HitungRerata\HitungRerata\obj\Debug\net8.0-windows\ref\HitungRerata.dll

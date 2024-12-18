@@ -1,0 +1,17 @@
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\bin\Debug\net8.0-windows\DataDiri.exe
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\bin\Debug\net8.0-windows\DataDiri.deps.json
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\bin\Debug\net8.0-windows\DataDiri.runtimeconfig.json
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\bin\Debug\net8.0-windows\DataDiri.dll
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\bin\Debug\net8.0-windows\DataDiri.pdb
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\obj\Debug\net8.0-windows\DataDiri.Form1.resources
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\obj\Debug\net8.0-windows\DataDiri.csproj.GenerateResource.cache
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\obj\Debug\net8.0-windows\DataDiri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\obj\Debug\net8.0-windows\DataDiri.AssemblyInfoInputs.cache
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\obj\Debug\net8.0-windows\DataDiri.AssemblyInfo.cs
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\obj\Debug\net8.0-windows\DataDiri.csproj.CoreCompileInputs.cache
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\obj\Debug\net8.0-windows\DataDiri.dll
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\obj\Debug\net8.0-windows\refint\DataDiri.dll
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\obj\Debug\net8.0-windows\DataDiri.pdb
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\obj\Debug\net8.0-windows\DataDiri.genruntimeconfig.cache
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\obj\Debug\net8.0-windows\ref\DataDiri.dll
+C:\Users\Modern 14 H\source\repos\DataDiri\DataDiri\obj\Debug\net8.0-windows\DataDiri.Properties.Resources.resources
